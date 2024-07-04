@@ -96,10 +96,11 @@ body{
             h2{
                 color: black;
                 font-size: 18px;
+                margin-bottom: 15px;
             }
             /* background-color: var(--white); */
             width: 50%;
-            padding: 10px 25px;
+            padding: 15px 25px;
             .tableMark{
                 .title{
                     margin-top: 14px;
@@ -110,7 +111,7 @@ body{
                         display: flex;
                         justify-content: space-between;
                         align-items: center;
-                        padding: 1px;
+                         height: 2.8rem;
                         margin-bottom: 14px;
                         border-radius: 10px;
                         font-weight: bold;
@@ -141,12 +142,12 @@ body{
                     } 
                 .title{
                     span{
-                        padding-left: 5px;
+                        padding-left: 9px;
                     }
                 }
                 h4{
                     color:black;
-                    padding-right: 5px;
+                    padding-right: 10px;
                 }
             }
             button{
@@ -156,7 +157,7 @@ body{
                 outline: none;
                 border: none;
                 background-color: rgba(11, 17, 51, 0.753);
-                margin-top: 5px;
+                margin-top: 14px;
             }
         }
     }
