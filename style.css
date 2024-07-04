@@ -27,7 +27,7 @@ body{
     justify-content: center;
     align-items: center;
     .contanir{
-        height: 60vh;
+        height: 60%;
         width: 40%;
         /* background-color: black; */
         display: flex;
