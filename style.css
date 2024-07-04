@@ -42,7 +42,7 @@ body{
             .head{
                 h3{
                     color:var(--Dark-gray-blue);
-                    margin-top: 15px;
+                    margin-top: 20px;
                 }
             }
             .mark{
@@ -81,7 +81,7 @@ body{
                     width: 13rem;
                     padding-bottom: 20px;
                     font-size: 15px;
-                    color:rgb(177, 175, 175)
+                    color:rgb(223, 218, 218)
                 }
             }
         }
